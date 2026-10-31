@@ -58,7 +58,7 @@ local function IsStaff(playerName)
 end
 
 -- ==================== BAN SYSTEM (GitHub ready) ====================
-local BanListURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banlist.txt"
+local BanListURL = "https://raw.githubusercontent.com/rf0h/brookhavenfestivalXD/main/banlist.txt"
 local BannedUsers = {}
 
 local function LoadBanList()
