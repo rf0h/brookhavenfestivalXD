@@ -14,7 +14,7 @@ local Staff = {
         ["kaidor2oo8"] = true,
     },
     Admin = {
-        -- ["AdminName1"] = true,
+        ["hiimsamet2"] = true,
     },
     Developer = {
         -- ["DevName1"] = true,
