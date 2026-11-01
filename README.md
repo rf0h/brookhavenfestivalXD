@@ -1,2 +1,1 @@
-# brookhavenfestivalXD
-brookhaven
+# Brookhaven script by Kutaydox
